@@ -45,6 +45,7 @@ Some Ideas/Challenges!
 * Make the player invincible
 * Change the tile colors
 * Change the level layout (new platforms :sunglasses:)
+* Add some music!
 * **ANYTHING YOU CAN THINK OF**
 
 
