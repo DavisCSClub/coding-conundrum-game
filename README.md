@@ -50,7 +50,7 @@ Some Ideas/Challenges!
 
 <br />
 
-### You can even play [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ) upon winning the game
+You could even play something like [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ) upon winning the game
 
 <br />
 
